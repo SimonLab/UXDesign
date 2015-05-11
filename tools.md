@@ -13,3 +13,6 @@ Useful sites
 - Pivotal Tracker
     http://www.pivotaltracker.com/
     Used to create and manage digital user stories/agile software development
+
+- Explanation of wireframing
+   http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399
